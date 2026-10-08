@@ -5,6 +5,8 @@ This is a test assignment for the Data Science in EES course.
 
 To complete this assignment please do not use the website GUI unless specifically instructed - this activity is getting you used to interfacing with Github through R studio:
 
+name in Rstudio, Sasha Burns
+
 1. Fork this repository to your own GitHub account.
 2. Clone the repository to your own computer using RStudio.
 3. Add your name to the README.md file online (via the GitHub website) and include an informative commit message. 
