@@ -35,3 +35,4 @@ hint: you can use "git help" to open the terminal manual or "git help -a" to lis
 3. Undo Change: Edit secret.txt, then run a command to revert it to its last committed state before saving.
 4. Check Status: Run a command to display the difference between staged and unstaged changes.
 5. Add, commit (message: "Added secret file"),pull and push secret.txt using only terminal commands.
+![](https://github.com/EdDataScienceEES/DataScienceHub2026/blob/1bba48aafe3a40c3bae67d0445822df5a4a1a964/repo_files/DataSciEES_logo.jpg)
